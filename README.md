@@ -62,5 +62,3 @@ HomeKit应用服务只提供给通过App Store发布的app应用程序。在你�
 
 
 ![模拟器.png](http://upload-images.jianshu.io/upload_images/2516123-514a044d90ac9629.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-- [*代码连接：https://github.com/xuchengcheng/HomeKitDemo*](https://github.com/xuchengcheng/HomeKitDemo)
